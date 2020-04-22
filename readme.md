@@ -1,0 +1,1 @@
+bootstrap https://www.newsweek.com/ layout
