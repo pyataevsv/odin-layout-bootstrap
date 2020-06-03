@@ -1,3 +1,3 @@
-App [here!](https://pyataevsv.github.io/odin-layout-bootstrap/)
+ 
 
-bootstrap https://www.newsweek.com/ layout
+bootstrap https://www.newsweek.com/ layout [here](https://pyataevsv.github.io/odin-layout-bootstrap/)
